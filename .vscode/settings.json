@@ -1,0 +1,39 @@
+{
+  "editor.fontSize": 10,
+  "window.zoomLevel": 0,
+  "debug.console.fontSize": 11,
+  "terminal.integrated.fontSize": 11,
+  "[dart]": {
+    "editor.rulers": [
+      80
+    ],
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit",
+    }
+  },
+  "workbench.tree.indent": 16,
+  "dart.flutterSdkPath": ".fvm/versions/3.19.6",
+  "dart.sdkPath": "/Users/estevaocardoso/flutter/bin/cache/dart-sdk",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#ff6433",
+    "activityBar.background": "#ff6433",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#00ff3d",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#ff6433",
+    "statusBar.background": "#ff3d00",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#ff6433",
+    "statusBarItem.remoteBackground": "#ff3d00",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#ff3d00",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#ff3d0099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#ff3d00",
+  "debug.toolBarLocation": "commandCenter",
+}
